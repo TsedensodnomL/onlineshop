@@ -3,5 +3,9 @@ MySQL database project
 
 Сурсан зүйлс 
 <li>
-  <ol>Table үүсгэх</ol>
+   Өгөгдлийн сан, хүснэгт үүсгэх
 </li>
+<li>Өгөгдлийн сан, хүснэгт засварлах</li>
+<li>Constraint нэмэх, засварлах</li>
+<li>Subquery бичих</li>
+<li>Stored procedure үүсгэх</li>
